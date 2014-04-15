@@ -11,6 +11,9 @@ Some fun facts about the setup of this blog include:
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Write using [Sublime Text 2](http://sublimetext.com), an amazing code editor (and now for blogging)
 
+Clone [this repository](https://github.com/adzymaniac/adzymaniac.github.io) for creating blog like this.
+All blog posts licensed under CC-BY-NC
+
 Have questions or suggestions? [ask me on Twitter](https://twitter.com/Cengkarux) or send me an [Email](mailto://aji@cengkaruk.com).
 
 Thanks for reading!
